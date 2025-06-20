@@ -7,10 +7,10 @@ Phân tích dữ liệu giá cổ phiếu GOOGL từ năm 2023–2024 để:
 - Đánh giá khả năng đầu tư và rủi ro
 
 ## Nội dung dự án
-- `final.ipynb`: Jupyter Notebook phân tích đầy đủ
-- `data/raw_Data/`: Dữ liệu gốc
-- `data/processed_Data/`: Dữ liệu sau xử lý
-
+- `Bao_cao_cuoi_ky.ipynb`: Jupyter Notebook phân tích đầy đủ
+- `Data/raw_Data/`: Dữ liệu gốc
+- `Data/processed_Data/`: Dữ liệu sau xử lý
+- `Bao_cao_cuoi_ky.pdf`: Bản PDF xuất từ Notebook
 ## Cách sử dụng
 
 1. **Chuẩn bị môi trường:**
